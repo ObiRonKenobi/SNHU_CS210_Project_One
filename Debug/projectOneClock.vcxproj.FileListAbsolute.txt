@@ -1,0 +1,2 @@
+U:\projectOneClock\Debug\projectOneClock.exe
+U:\projectOneClock\Debug\projectOneClock.pdb
